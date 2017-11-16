@@ -3,7 +3,7 @@
 * Home-brew
 * Xcode
 * Git
-* [Integrated Development Environment - IDE](https://github.com/completewebdev/IDE)
+* [Integrated Development Environment - IDE](https://github.com/SoulEncoded/IDE)
 * MySql / PostgreSQL
 * MongoDB
 * Node.js / Explain NPM
