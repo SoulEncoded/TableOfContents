@@ -2,7 +2,7 @@
 * ITerm2 / Solarize
 * Home-brew
 * Xcode
-* Git
+* [Version Control / Git](https://github.com/SoulEncoded/VersionControl)
 * [Integrated Development Environment - IDE](https://github.com/SoulEncoded/IDE)
 * MySql / PostgreSQL
 * MongoDB
