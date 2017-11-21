@@ -1,19 +1,16 @@
 ## Environment Setup
-* ITerm2 / Solarize
+* ITerm2
 * Home-brew
 * Xcode
-* [Version Control / Git](https://github.com/SoulEncoded/VersionControl)
 * [Integrated Development Environment - IDE](https://github.com/SoulEncoded/IDE)
 * MySql / PostgreSQL
 * MongoDB
 * Node.js / Explain NPM
-* workspace / common directories
+* [Command Line Interface (CLI)](https://github.com/SoulEncoded/CommandLine)
 
 ## Version Control / Git
-* What is Git
+* [Version Control / Git](https://github.com/SoulEncoded/VersionControl)
 * Git vs Github
-* Common Git commands
-* Git workflow example how the challenges should work
 
 ## Programming concepts / Javascript
 * What is javascript / Why Javascript for web
