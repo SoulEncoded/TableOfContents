@@ -10,32 +10,24 @@
 
 ## Version Control / Git
 * [Version Control / Git](https://github.com/SoulEncoded/VersionControl)
-* [Github](https://github.com/SoulEncoded/Github) 
+* [Github](https://github.com/SoulEncoded/Github)
 
-## Programming concepts / Javascript
-* What is javascript / Why Javascript for web
-* How to compile javascript with Node. Hello world example
-* ES6 vs ES5 and why we will be coding in ES6
-* Values / Literals vs Variable and assignments
-* Operators
-* Expressions
-* Keywords
-* Comments
-* Case Sensitivity / Code Style
-* Data Types / String / Number / Booleans / Arrays / Objects / Undefined vs Null
-* Functions / Block Scoping
-* Scope
-* Common methods. Strings
-* Common methods. Number
-* Conditions
-* Switch
-* Control Flow e.a Loop
-* Regex
-* Bitwise
-* This
-* Prototypes
-* Async
-* Review Scopes and Closures
+## Javascript
+* Javascript Introduction And Programming
+* Javascript Values Types and Operators
+* Javascript Program Structure Part 1
+* Javascript Program Structure Part 2
+* Javascript Functions Part 1
+* Javascript Functions Part 2
+* Javascript Data Structures Objects
+* Javascript Data Structures Arrays
+* Javascript Higher-Order Functions
+* Javascript Secret Life of Objects
+* Javascript Bugs and Error Handling
+* Javascript Regular Expressions
+* Javascript Modules
+* Javascript and the Browser
+* Javascript Document Object Model (DOM)
 
 ## Data structures and Algorithms.
 * Big 0
