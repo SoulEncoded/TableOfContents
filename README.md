@@ -10,7 +10,7 @@
 
 ## Version Control / Git
 * [Version Control / Git](https://github.com/SoulEncoded/VersionControl)
-* Git vs Github
+* [Github](https://github.com/SoulEncoded/Github) 
 
 ## Programming concepts / Javascript
 * What is javascript / Why Javascript for web
